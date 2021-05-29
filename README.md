@@ -2,12 +2,12 @@
 
 <img src="https://github.com/leopheard/CrimethInc/blob/master/resources/media/fanart.jpg"><br>
 
-- The Ex-Worker<br>
-- No Wall They Can Build<br>
-- The Hotwire<br>
+- <a href="https://crimethinc.com/podcasts">The Ex-Worker</a><br>
+- <a href="https://crimethinc.com/podcasts">No Wall They Can Build</a><br>
+- <a href="https://crimethinc.com/podcasts">The Hotwire</a><br>
 
-<b>What Is CrimethInc.?<br></b>
-CrimethInc. is a rebel alliance — a secret society pledged to the propagation of crimethink. It is a think tank producing inflammatory ideas and action, a sphinx posing questions fatal to the superstitions of our age.<br>
+<b>What Is <a href="https://crimethinc.com/">CrimethInc.</a>?<br></b>
+<a href="https://crimethinc.com/">CrimethInc.</a> is a rebel alliance — a secret society pledged to the propagation of crimethink. It is a think tank producing inflammatory ideas and action, a sphinx posing questions fatal to the superstitions of our age.<br>
 
 CrimethInc. is a banner for anonymous collective action. It is not a membership organization, but a mouthpiece for longings that extend throughout the population at large. Anyone can be CrimethInc. — it could be your next-door neighbor or the person sitting beside you on the bus. You and your friends already constitute an affinity group, the organizational model best suited to guerrilla tactics, ready to go into action against all the forces that threaten your freedom.<br>
 
