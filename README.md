@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://crimethinc.com/podcasts">CrimethInc.</a> network of podcasts.<br>
 
-<img src="https://github.com/leopheard/CrimethInc/blob/master/resources/media/fanart.jpg" width="400" height="400" alt="Crimethinc."><br>
+<img src="https://github.com/leopheard/CrimethInc/blob/master/resources/media/fanart.jpg" width="700" height="400" alt="Crimethinc."><br>
 
 - <a href="https://crimethinc.com/podcasts">The Ex-Worker</a><br>
 - <a href="https://crimethinc.com/podcasts">No Wall They Can Build</a><br>
